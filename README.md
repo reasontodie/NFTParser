@@ -17,6 +17,7 @@ Checking balances takes place on the debank website.
 
 # Install Dependencies
 Python 3.10+
+
 pip install curl_cffi httpx javascript aiofiles loguru
 
 You also need NodeJS installed.
